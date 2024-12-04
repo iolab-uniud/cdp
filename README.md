@@ -1,5 +1,5 @@
 # cdp
-This repository containts instances and solutions for the Capacitated Dispersion Problem (GIS dataset).
+This repository contains instances and solutions for the Capacitated Dispersion Problem (GIS dataset).
 
 Datasets GKD-b, GKD-c, SOM-a, and MDG-b are available at [https://www.uv.es/rmarti/paper/mdp.html](https://www.uv.es/rmarti/paper/mdp.html).
 
